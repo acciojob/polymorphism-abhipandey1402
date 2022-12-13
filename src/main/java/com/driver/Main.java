@@ -19,7 +19,7 @@ public class Main {
         }
 
         public double product(int x, int y){
-            return x+y;
+            return x*y;
         }
     }
 
